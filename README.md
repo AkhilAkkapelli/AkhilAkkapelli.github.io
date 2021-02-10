@@ -1,2 +1,2 @@
 # akhilakkapelli.github.io
-Resume
+My Website
